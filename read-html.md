@@ -47,37 +47,27 @@ a page.**
 
 ![HTML5](https://mobile.developer.com/imagesvr_ce/3977/Figure01.png)
 
-## <header> <footer>
-The <header> and <footer>
+## header footer
+The headerand footer
 elements can be used for:
 - The main header or footer
 that appears at the top or
 bottom of every page on the
 site.
 - A header or footer for an
-individual <article> or
-<section> within the page.
-<header>
-<h1></h1>
-<nav>
- <ul>
- <li><a href=""></a></li>
- <li><a href=""></a></li>
- <li><a href=""></a></li>
- <li><a href=""></a></li>
- <li><a href=""></a></li>
- </ul>
-</nav>
-</header>
-##<article>
-**The <article> element acts as
+individual article or
+section within the page.
+header
+
+## article
+**The article element acts as
 a container for any section of a
 page that could stand alone and
 potentially be syndicated.
 This could be an individual
 article or blog entry, a comment
 or forum post, or any other
-independent piece of content **
+independent piece of content**
 # inline element
 Some elements will always
 appear to continue on the
@@ -85,25 +75,18 @@ same line as their neighbouring
 elements. These are known as
 inline elements.
 Examples of inline elements are
-<a>, <b>, <em>, and <img
+a, b, em, and img
 
 # blockelement
-<div>
-**The <div> element allows you to
+-div
+**The div element allows you to
 group a set of elements together
 in one block-level box.
 For example, you might create
-a <div> element to contain all
+a divmelement to contain all
 of the elements for the header
 of your site (the logo and the
 navigation), or you might create
-a <div> element to contain
+a div element to contain
 comments from visitors.**
-
-
-
-
-
-
-
 
