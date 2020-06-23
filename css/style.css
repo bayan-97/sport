@@ -1,0 +1,50 @@
+h1{ text-align: center;
+    color: #0000f0;
+    text-shadow: bisque;
+
+}
+body{background-color: slategray;
+
+}
+nav ul li img{text-align: center;
+    display: block;
+    width: 600px;
+    height: 300px;
+    margin: 100px;
+    padding-left: 260px;
+}
+   
+nav ul li a{ 
+            text-decoration: none;
+            text-align: center;
+            color: maroon;
+            padding-left: 50px;
+            margin: 50;
+
+}
+li{display: inline;
+    margin-left: 50px;
+    text-align: center;
+
+}
+.helth-sport{text-align: center;
+             display: block;
+             margin: 100px;
+
+}
+.whygo{text-align: center;
+    text-transform: capitalize;
+    color: rgb(255,0,0);
+
+}
+nav {text-align: center;}
+.anyhelp{ text-align: center;
+    text-transform: lowercase;
+    color: rgb(255,0,0);
+}
+#connect{
+    text-align: center;
+    display: inline;
+    color: black;
+    
+}
