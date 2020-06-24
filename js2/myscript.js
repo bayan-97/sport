@@ -35,7 +35,7 @@ if (fav=="tennis") {
   }
 function smillIm(){ var nam= prompt( "what is  your favorite nummber??");
 for (let i = 0; i < nam ; i++) {
-  document.write('<img src="http://mynamepics.in/uploads/bf269880995eff6db663cf8788e0d258.jpg">');
+  document.write('<img src="https://i.pinimg.com/236x/83/ff/0f/83ff0f7e8a22dfc1edab983d7860301a--tie-pin-smiley-faces.jpg">');
  
   
 }
