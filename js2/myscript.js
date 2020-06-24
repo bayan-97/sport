@@ -30,10 +30,10 @@ if (fav=="tennis") {
 
   function name(){var name2= prompt( "what is your name??");
   
-    document.write( '<h1>'+'welcome'+name2 +'</h1>');    
+    document.write( '<h1>'+'have agood day'+ "" + name2 +'</h1>');    
 
   }
-function smillIm(){ var nam= prompt( "what is  your favorite nummber??");
+function smillIm(){ var nam= prompt( "Which month is your birthday??");
 for (let i = 0; i < nam ; i++) {
   document.write('<img src="https://i.pinimg.com/236x/83/ff/0f/83ff0f7e8a22dfc1edab983d7860301a--tie-pin-smiley-faces.jpg">');
  
@@ -42,8 +42,10 @@ for (let i = 0; i < nam ; i++) {
 
 }
   smill()  
-  favouret()
-  name()
   smillIm()
+  name()
+  favouret()
+
+ 
 
 
