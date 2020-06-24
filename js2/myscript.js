@@ -30,7 +30,15 @@ if (fav=="tennis") {
   document.write('<h1>' +fava+ '</h1>');
 
   }}
+
+  function name(){var name2= prompt( "what is your name??");
+  
+    document.write( '<h1>'+'welcome'+name2 +'</h1>');    
+
+  }
+
   smill() 
   old() 
   favouret()
+  name()
 
